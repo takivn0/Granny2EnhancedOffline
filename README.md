@@ -1,6 +1,5 @@
 # Granny 2 Enhanced Offline
 Offline version of Granny 2 Enhanced!  
-How to play: Run "Play Granny 2 Enhanced x64.exe" or "Play Granny 2 Enhanced x86.exe"  
 Granny 2 Enhanced by OmGi: https://gamejolt.com/games/g2enhanced/1032847
 # Granny 2 Enhanced Offline Patch
 Convert your original Granny 2 Enhanced into an offline version!  
